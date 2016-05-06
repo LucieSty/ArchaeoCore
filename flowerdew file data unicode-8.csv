@@ -1,0 +1,11 @@
+File Data,
+Field name,Definition
+Scan Specifications,
+Scan Photographer,Person or entity who scanned the original image
+Scan Date,
+Source Format,Physical format of source of digital file
+Source Location,Location of original source of image
+Requestor,
+File ID,"Unique numeric or alphanumeric identification, usually a filename, of the image"
+Media URN,
+Rights,Information about rights management; may include copyright and other intellectual property statements required for use regarding the work and/or image

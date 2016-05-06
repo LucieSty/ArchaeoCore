@@ -1,0 +1,30 @@
+Artifacts,
+Field name,Definition
+Artifact Type,"Classification of an object or find, according to established typology"
+Artifact Title,"Titles, identifying phrases, or names given to an artifact"
+Artifact Form,Shape of artifact
+Artifact Classification,"Classification of an object or find, controlled list based on Artifact Type"
+Artifact Creator,Name or other unique identification of a known creator of the artifact
+Creator Role,Part played by artifact creator
+Artifact Dimensions,Measured size of object
+Artifact Spatial Coordinates,Coordinates to establish find location
+Image View Description,"Description of the spatial, chronological, or contextual aspects of the work as captured in the view of this particular image."
+Artifact Description,Characteristics of individual piece
+Artifact Condition,Description of damage to artifact
+Artifact Inscription,"Lettering marked on artifact, especially for documentation or commemoration"
+Artifact Munsell Number,Index number for artifact color
+Artifact Materials,Materials used in artifact production
+Artifact Techniques,Production processes used
+Artifact Date,Production date of object
+Artifact Find Date,Date of artifact discovery
+Artifact Terminus Ante Quem,Date(s) before which an artifact could not have been produced
+Artifact Terminus Post Quem,Date(s) after which an artifact could not have been produced
+Artifact Photograph,Information identifying the photograph
+Artifact Photographer,Name of photographer
+Artifact Subject,Artifact descriptors 
+Artifact Repository,The name of the repository that is currently responsible for the work
+Accession Number,Any unique identifiers assigned to a work by the current or last known repository
+Artifact Origin,Original production location of artifact
+Artifact Current Location,The geographic location of the repository that is currently responsible for the work
+Container Number,The storage location within the Archaeology Lab where the artifact is stored
+Artifact Comparanda,Parallels for purposes of analysis

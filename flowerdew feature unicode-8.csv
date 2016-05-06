@@ -1,0 +1,19 @@
+Feature,
+Field name,Definition
+Creator,Name and brief biographical information of the named creator or creators in the design and production of the feature
+Creator Role,Role of the creator in the creation of the feature
+Feature Culture,"Name of the culture, nationality, or people from which the feature originated"
+Feature Title,"Titles, names, or identifying phrases given to a feature"
+Feature Work Type,Term or terms identifying the specific type of feature being described
+Date(s),"Concise description of the date or range of dates associated with the creation, design, or construction of the feature"
+Feature Earliest Date,Year that broadly delimits the beginning of an implied date span.
+Feature Latest Date,Year that broadly delimits the end of an implied date span.
+Feature Era,"Controlled list, before or after the Common Era (CE)"
+Feature Transformation,Record of alteration of the feature or its components
+Feature Period,"Term that identifies the named, defined period whose characteristics are represented in the feature"
+Feature Spatial Coordinates,Coordinates to establish location
+Materials/Techniques,"Indication of the substances or materials used in the creation of a feature, as well as any implements, production or manufacturing techniques, processes, or methods incorporated in its fabrication"
+Feature Measurements,"Information about the dimensions, size, or scale of the feature"
+Excavation Units Included,Precise notational location from excavation record
+View Description,"Description of the spatial, chronological, or contextual aspects of the work as captured in this particular image"
+Subjects/Keywords,"Terms that identify, describe, and/or interpret what is depicted in and by a feature"

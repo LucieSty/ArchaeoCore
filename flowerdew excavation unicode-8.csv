@@ -1,0 +1,24 @@
+Excavation,
+Field name,Definition
+Excavation Title,Title given to a particular physical configuration of the named site in an officially-defined short span of time
+Excavation Type,"Particular type of campaign e.g. session, excavation"
+Director,"Persons, either individually or in groups, who bear responsibility for the execution of the excavation"
+Registrar,Person or persons in an official position who is responsible for accurately recording excavation data
+Sponsor,Entity supporting the excavation
+Contributor,Person(s) who donated the photographs
+Source,Resource information about excavation
+Source Qualifier,See controlled list for source type
+Excavation Date(s),Dates of the excavation (dig) being described
+Excavation Terminus Ante Quem,Dates before which the portion of the site being excavated could not have functioned
+Excavation Terminus Post Quem,Dates after which the portion of the site being excavated could not have functioned
+Excavation Earliest Date,Year that broadly delimits the beginning of an implied date span.
+Excavation Latest Date,Year that broadly delimits the end of an implied date span.
+Excavation Unit Name,Spatial section composed of material items and features
+Excavation Unit Number,Unit division within codes developed for the site
+Excavator/Trench Supervisor,Person responsible for the proper excavation of a sub-unit
+Excavation Unit Type,See controlled list for unit type  [list not yet formulated]
+Excavation Stratigraphy,A vertical section through the earth showing the chronology of successive levels of occupation
+Excavation Transformation,Man-made alterations found during the excavation
+Munsell Soil Number,Index number for soil color
+Soil Description,Free-text description of soil color or composition
+Unit Photographer,Person(s) who took the photographs
