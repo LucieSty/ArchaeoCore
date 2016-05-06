@@ -5,5 +5,5 @@
 1. Site
 2. Campaign
 3. Feature
-4. Artifact
+4. Artifacts
 5. File Data
