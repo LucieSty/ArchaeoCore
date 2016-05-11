@@ -1,0 +1,19 @@
+MONUMENT or FEATURE,
+Field name,Definition
+Creator,Name and brief biographical information of the named creator or creators in the design and production of the monument
+Creator Role,Role of the creator in the creation of the monument
+Monument Culture,"Name of the culture, nationality, or people from which the monument originated"
+Monument Title,"Titles, names, or identifying phrases given to a monument"
+Monument Work Type,Term or terms identifying the specific type of monument being described
+Date(s),"Concise description of the date or range of dates associated with the creation, design, or construction of the monument"
+Monument Earliest Date,Year that broadly delimits the beginning of an implied date span.
+Monument Latest Date,Year that broadly delimits the end of an implied date span.
+Monument Era,"Controlled list, before or after the Common Era (CE)"
+Monument Transformation,Record of alteration of the monument or its components
+Monument Period,"Term that identifies the named, defined period whose characteristics are represented in the monument"
+Monument Spatial Coordinates,Coordinates to establish location
+Materials/Techniques,"Indication of the substances or materials used in the creation of a monument, as well as any implements, production or manufacturing techniques, processes, or methods incorporated in its fabrication"
+Monument Measurements,"Information about the dimensions, size, or scale of the monument"
+Excavation Units Included,Precise notational location from excavation record
+View Description,"Description of the spatial, chronological, or contextual aspects of the work as captured in this particular image"
+Subjects/Keywords,"Terms that identify, describe, and/or interpret what is depicted in and by a monument"

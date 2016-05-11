@@ -1,0 +1,23 @@
+CAMPAIGN or SEASON,
+Field name,Definition
+Campaign Title,Title given to a particular physical configuration of the named site in an officially-defined short span of time
+Campaign Type,"Particular type of campaign, e.g. session, excavation"
+Director,"Persons, either individually or in groups, who bear responsibility for the execution of the campaign"
+Registrar,Person or persons in an official position who is responsible for accurately recording campaign data
+Sponsor,Entity supporting the campaign
+Contributor,Person(s) who donated the photographs
+Source,Resource information about campaign
+Source Qualifier,See controlled list for source type
+Campaign Date(s),Dates of the campaign (dig) being described
+Campaign Terminus Ante Quem,Dates before which the portion of the site being excavated could not have functioned
+Campaign Terminus Post Quem,Dates after which the portion of the site being excavated could not have functioned
+Campaign Earliest Date,Year that broadly delimits the beginning of an implied date span.
+Campaign Latest Date,Year that broadly delimits the end of an implied date span.
+Excavation Unit Name,Spatial section composed of material items and features
+Excavation Unit Number,Unit division within codes developed for the site
+Excavator/Trench Supervisor,Person responsible for the proper excavation of a sub-unit
+Excavation Unit Type,See controlled list for unit type
+Campaign Stratigraphy,A vertical section through the earth showing the chronology of successive levels of occupation
+Campaign Transformation,Man-made alterations found during the campaign
+Munsell Soil Number,Index number for soil color
+Unit Photographer,Person(s) who took the photographs
