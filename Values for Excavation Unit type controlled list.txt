@@ -1,0 +1,1 @@
+﻿Values for Excavation Unit type controlled listBore holeExcavation squareShovel test pitTrench excavation
